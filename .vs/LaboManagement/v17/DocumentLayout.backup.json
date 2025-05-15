@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJET\\.NetProjects\\LaboManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\controllers\\infirmiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\controllers\\infirmiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\patient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\infirmier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\infirmier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|d:\\projet\\.netprojects\\labomanagement\\am.ui.webb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0EC49-74B3-4C23-A8F8-809A92AB7000}|AM.UI.WEBB\\AM.UI.WEBB.csproj|solutionrelative:am.ui.webb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\services\\servicepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\servicepatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\iserviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\iservicelaboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservicelaboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\services\\servicelaboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\servicelaboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BF9F59-D328-42C1-961F-0B57EFD76D60}|AM.Console\\AM.Console.csproj|d:\\projet\\.netprojects\\labomanagement\\am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BF9F59-D328-42C1-961F-0B57EFD76D60}|AM.Console\\AM.Console.csproj|solutionrelative:am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\services\\servicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\servicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\iservicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservicebilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|d:\\projet\\.netprojects\\labomanagement\\am.applicationcore\\services\\serviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182102E1-1FD0-4FD7-B686-1EE6557BB5C1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceinfirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\projet\\.netprojects\\labomanagement\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\projet\\.netprojects\\labomanagement\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\projet\\.netprojects\\labomanagement\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|d:\\projet\\.netprojects\\labomanagement\\am.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F57928-F6D2-4851-A970-C019C1FDCC40}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Patient.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Patient.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Patient.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Patient.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:47:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Edit.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Edit.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:46:01.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Delete.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Delete.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:43:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Details.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Details.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Details.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:42:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Index.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:54:57.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfirmierController.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\InfirmierController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Controllers\\InfirmierController.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\InfirmierController.cs",
+              "RelativeToolTip": "AM.UI.WEBB\\Controllers\\InfirmierController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:41:30.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Create.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Infirmier\\Create.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Infirmier\\Create.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Infirmier\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:49:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AM.UI.WEBB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:10:07.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:02:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AM.UI.WEBB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:03:14.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AM.UI.WEBB\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:32:38.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEBB\\Program.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.UI.WEBB\\Program.cs",
+              "RelativeToolTip": "AM.UI.WEBB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:53:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Infirmier.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Infirmier.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Infirmier.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Infirmier.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Infirmier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:29:39.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Patient.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:15:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicePatient.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServicePatient.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServicePatient.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServicePatient.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServicePatient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:10:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceInfirmier.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceInfirmier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:13:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceLaboratoire.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceLaboratoire.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceLaboratoire.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceLaboratoire.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceLaboratoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:51:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:28:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceLaboratoire.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceLaboratoire.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceLaboratoire.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceLaboratoire.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceLaboratoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:51:58.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Laboratoire.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:58:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.Console\\Program.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Console\\Program.cs",
+              "RelativeToolTip": "AM.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:04:18.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceBilan.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceBilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:11:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IServiceBilan.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceBilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:11:10.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:36:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:31:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:39:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Analyse.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Analyse.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Analyse.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Analyse.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Analyse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:39:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bilan.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Bilan.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Bilan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:04:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceInfirmier.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceInfirmier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:13:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:16:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "AM.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:16:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:16:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BilanConfiguration.cs",
+              "DocumentMoniker": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ToolTip": "D:\\PROJET\\.NetProjects\\LaboManagement\\AM.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:03:26.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
